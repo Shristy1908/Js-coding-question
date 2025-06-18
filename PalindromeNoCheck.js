@@ -1,6 +1,6 @@
 //Check the Palindrome String
 
-let str="noghon";
+let str="nogon";
 
 // let revStr="";
 // for(let i=str.length-1;i>=0;i--){
